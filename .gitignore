@@ -1,0 +1,6 @@
+# Downloaded and generated data (recreated by running the chapters)
+data/
+
+# Editor and OS files
+.vscode/
+.DS_Store
